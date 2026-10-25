@@ -99,17 +99,48 @@ AI-assisted product development can involve several kinds of tools:
 
 This is an illustrative ecosystem, not a claim that every tool is installed, connected, or used in every project. Choose tools based on the product's requirements, constraints, and risk profile.
 
-## 🚀 Product Projects
+## 🚀 Products Built by Me
 
-These are the five product names in the author's portfolio.
+Five products reflecting my work across pet care, cyber intelligence, asset intelligence, financial analysis, and research.
 
-1. **PAWPHILE** — A pet-health product project.
-2. **TRUNPUS** — A product project in the portfolio.
-3. **AEGON** — A product project in the portfolio.
-4. **STOCKSEE** — A stock-analysis product project.
-5. **AARAICHI** — An evolving project currently undergoing upgrades.
+### 01 — PAWPHILE
+**AI-Powered Dog Health & Care Platform**
 
-Project descriptions will be expanded as their verified scope, documentation, and implementation details are ready to share. Not every project or repository is necessarily public.
+PAWPHILE helps dog parents manage their pets' health information in one connected place. It brings together health records, vaccinations, preventive care, nutrition, behaviour, reminders, and AI-assisted insights to support informed decision-making. Its goal is to turn scattered information into meaningful, accessible care history.
+
+*Mission: Know Them Better. Care Them Better.*
+
+### 02 — TRUNPUS
+**Evidence-Grounded Cyber Intelligence Platform**
+
+TRUNPUS correlates external attack-surface signals, vulnerabilities, exposed infrastructure, threat intelligence, and supply-chain relationships to contextualize cyber risk. It turns fragmented observations into structured investigations through explainable reasoning, evidence-backed assessments, and traceable decisions.
+
+*Philosophy: SIGNAL • PATTERN • INSIGHT*
+
+### 03 — AEGON
+**Asset Intelligence & Stewardship Platform**
+
+AEGON connects fragmented asset, maintenance, inspection, and cost data. It validates records, reconciles asset identities, and links supporting evidence to establish a trusted asset baseline. It generates explainable risk and cost insights to support informed, human-led decisions.
+
+*Mission: CONNECT DATA → UNLOCK ASSETS → CREATE VALUE*
+
+### 04 — STOCKSEE
+**AI-Powered Stock Analysis & Decision Support Platform**
+
+STOCKSEE helps investors understand market data and make informed decisions. It combines real-time market data, financial metrics, technical indicators, and AI-driven analysis to simplify complex stock information into clearer insights, trends, and actionable signals.
+
+Its goal is to bridge the gap between raw financial data and intelligent investment decision-making.
+
+### 05 — AARAICHI
+**Evidence-Grounded Research Workspace**
+
+AARAICHI helps researchers investigate complex questions using academic papers and web sources. It retrieves relevant evidence, synthesizes findings across multiple sources, and generates structured research reports, with a focus on traceable citations, transparent limitations, and reliable research workflows.
+
+> **Development status: UNDER ACTIVE DEVELOPMENT — CURRENTLY BEING UPGRADED.**
+
+### Repository Availability
+
+The repositories for **PAWPHILE, TRUNPUS, and AEGON** have not been publicly disclosed for personal reasons. This README showcases the products and their purposes without exposing private source code or repository links.
 
 ## 🗺️ Suggested learning path
 
