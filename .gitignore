@@ -1,0 +1,30 @@
+﻿# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*credentials*
+*secret*
+*.pem
+*.key
+*.pfx
+
+# Local configuration
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js artifacts
+node_modules/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
